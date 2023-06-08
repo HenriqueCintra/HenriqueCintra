@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Cintra;I'm+20+years+old;I'm+from+Brazil;I'm+a+Computer+Engineering+Student🖥️;Be+Welcome!👋)](https://git.io/typing-svg)
 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jhcsb12@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-henrique-3334411a6/)
-![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
+📫 How to reach me jhcsb12@gmail.com
 
 ![Henrique Github stats](https://github-readme-stats.vercel.app/api?username=HenriqueCintra&theme=blue-green)
 
