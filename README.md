@@ -4,7 +4,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-henrique-3334411a6/)
 
-📫 How to reach me jhcsb12@gmail.com
+📫 How to reach me engcomphenrique@gmail.com
 
 ![Henrique Github stats](https://github-readme-stats.vercel.app/api?username=HenriqueCintra&theme=blue-green)
 
