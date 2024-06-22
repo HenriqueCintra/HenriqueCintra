@@ -15,5 +15,4 @@
     <img alingn="center" alt="c" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img alingn="center" alt="c" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
      <img alingn="center"  alt="c"  src="https://img.shields.io/badge/PowerBI-FF8164?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-    <img alingn="center"  alt="c"  src="https://img.shields.io/badge/PowerBI-FF8164?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 </div>
